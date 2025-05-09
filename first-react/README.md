@@ -32,7 +32,12 @@ To run the project locally:
 
 1. **Clone the repository**  
    ```bash
-   git clone https://github.com/your-username/first-react.git
+   git clone https://github.com/wesleyajavon/first-react.git
    cd first-react
    npm install
    npm run dev
+
+
+## 📸 Preview
+
+![App Screenshot](./public/screenshot.png)
