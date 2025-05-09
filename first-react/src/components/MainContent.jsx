@@ -8,7 +8,7 @@ export default function MainContent() {
             <h1>Fun facts about me using React...</h1>
           </div>
             <ul className="list-group list-group-flush">
-              <li id="test" className="list-group-item">Born and raised in Columbia 🇧🇪</li>
+              <li id="test" className="list-group-item">Born and raised in Belgium 🇧🇪</li>
               <li className="list-group-item">Played College and Pro Soccer ⚽️ </li>
               <li className="list-group-item">Graduated from University of Luxembourg with a Bachelor in Computer Sciences 💻</li>
               <li className="list-group-item">Currently Studying in a Master of Science in Business Analytics 📈</li>
